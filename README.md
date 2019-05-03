@@ -12,7 +12,7 @@ This project help to classify the Trafic Signs using deep learning model with te
 8. Dense3 = 120 --> 84
 9. Dense4 = 84 --> 43 = P
 
-Current validationi accuracy: ~95%
+Current validation accuracy: ~95%
 
 More details at `Traffic_Sign_Classifier.html`
 
